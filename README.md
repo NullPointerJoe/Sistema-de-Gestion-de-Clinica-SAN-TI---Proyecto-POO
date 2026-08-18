@@ -1,15 +1,6 @@
-# Programación Orientada a Objetos
-
 # Sistema de Gestión de Clínica SAN TI
  
 Aplicación de escritorio en **Java** con interfaz gráfica en **Swing**, desarrollada para la asignatura **Programación Orientada a Objetos I**. Permite administrar médicos, pacientes e ingresos hospitalarios aplicando los principios fundamentales de POO.
- 
-![Java](https://img.shields.io/badge/Java-JDK%208+-orange)
-![Swing](https://img.shields.io/badge/GUI-Swing-blue)
- 
-## Capturas
- 
-*(Agregar 1-2 screenshots de la app corriendo — es lo primero que un revisor mira)*
  
 ## Funcionalidades
  
@@ -33,13 +24,16 @@ La herencia `ingreso extends DatosContactos` evita duplicar los campos de contac
  
 ## Tecnologías
  
-Java · Swing (`JFrame`, `JOptionPane`) · `ArrayList` · `GregorianCalendar` / `SimpleDateFormat`
+Java · Swing (`JFrame`, `JOptionPane`) · `ArrayList` · `GregorianCalendar` / `SimpleDateFormat` · NetBeans IDE
  
 ## Ejecución
- 
-1. Abrir el proyecto en NetBeans (o cualquier IDE compatible con Java).
+
+Desarrollado en **NetBeans IDE**, **Java with Ant**.
+
+1. Abrir el proyecto en NetBeans.
 2. Ejecutar `MainGUI.java`.
-**Requisitos:** JDK 8 o superior.
+
+**Requisitos:** JDK 22 o superior.
  
 ## Conceptos de POO aplicados
  
